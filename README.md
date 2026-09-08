@@ -1,4 +1,4 @@
-## Haythem Farjallah
+# Haythem Farjallah
 
 **Software engineer, Certified Kubernetes Administrator, transitioning into DevOps / SRE.**
 Based in Taichung, Taiwan · Open to junior DevOps, SRE and Cloud Operations roles across Taiwan
@@ -12,7 +12,7 @@ Drupal and Node.js, shipped through a five-environment promotion process with pe
 gates and release demonstrations.
 
 Now working on the infrastructure side: Kubernetes, Linux, delivery automation and
-observability. I run a two-node kubeadm cluster at home with scripts that break it at random, so
+observability. I run a two-node kubeadm cluster in my lab using randomized fault-injection scripts , so
 I can practise recovery under time pressure without knowing what went wrong.
 
 [Certified Kubernetes Administrator (CKA)](https://www.credly.com/badges/f0e9c38b-3c89-48ad-b885-fb2ec7d42948/public_url) · The Linux Foundation · September 2026
@@ -21,10 +21,10 @@ I can practise recovery under time pressure without knowing what went wrong.
 
 ### Projects
 
-- **[watchkube](https://github.com/haythem-farjallah/kubewatch)** — Go CLI that streams live
+- **[kubewatch](https://github.com/haythem-farjallah/kubewatch)** — Go CLI that streams live
   Kubernetes pod events with namespace and label filtering. Built to learn the watch API from
   the wire up.
-- **[kubepeek](https://github.com/haythem-farjallah/Kubepeek)** — Go CLI for inspecting and
+- **[Kubepeek](https://github.com/haythem-farjallah/Kubepeek)** — Go CLI for inspecting and
   filtering pod state through `client-go`.
 - **[school-app](https://github.com/haythem-farjallah/school-app)** — Spring Boot and React
   platform with Docker Compose, a Jenkins pipeline, SonarQube, and an observability stack of
